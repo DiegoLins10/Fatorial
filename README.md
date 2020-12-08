@@ -1,4 +1,4 @@
-## Desafio fatorial
+## Desafio - Fatorial
 
 - Diego Fernandes Lins
 
